@@ -1,0 +1,9 @@
+#bal {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display:grid;
+    grid-template-rows: auto 1fr auto;
+    max-width: none;
+    min-width: 100%;
+}
